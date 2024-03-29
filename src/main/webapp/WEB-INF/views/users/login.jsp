@@ -36,7 +36,7 @@
 <body>
   <main>
 	<h2>로그인</h2>
-	<form action="/Login" method="POST">
+	<form action="/login" method="POST">
 	<table>
 	 <tr>
 	   <td>아이디</td>
